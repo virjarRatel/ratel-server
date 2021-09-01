@@ -67,12 +67,12 @@
         <dependency>
             <groupId>com.baomidou</groupId>
             <artifactId>mybatis-plus-boot-starter</artifactId>
-            <version>3.0.5</version>
+            <version>3.1.2</version>
         </dependency>
         <dependency>
             <groupId>com.baomidou</groupId>
             <artifactId>mybatis-plus-generator</artifactId>
-            <version>RELEASE</version>
+            <version>3.1.2</version>
             <scope>test</scope>
         </dependency>
         <dependency>
